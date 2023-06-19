@@ -4,3 +4,4 @@
 package jsonvalue
 
 type any = interface{}
+type Any = interface{}
